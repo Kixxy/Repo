@@ -1,2 +1,2 @@
-# Mr-Blamo-Repo
-Mr Blamo's repository for Video Addons
+# Kixxy Repo
+Kixxy's repository for Video Addons
